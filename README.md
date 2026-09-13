@@ -1,4 +1,4 @@
-# chat-with-docs
+# Conversational RAG Assistant
 
 A single-file Streamlit app for conversational Q&A over uploaded documents (PDF, DOC/DOCX, TXT) using a FAISS vector store and OpenAI models.
 
