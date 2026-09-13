@@ -26,8 +26,8 @@ Deeper documentation: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · [docs/EVAL
 ## Quickstart
 
 ```bash
-git clone https://github.com/git-bonda108/chat-with-docs.git
-cd chat-with-docs
+git clone https://github.com/git-bonda108/conversational-rag-assistant.git
+cd conversational-rag-assistant
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 echo "OPENAI_API_KEY=sk-..." > .env
